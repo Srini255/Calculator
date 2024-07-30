@@ -24,4 +24,10 @@ document.addEventListener('DOMContentLoaded',()=>{
 document.getElementById('clear').addEventListener('click',()=>{
     const display=document.getElementById('display');
     display.value='';
-})
+});
+
+document.getElementById('Equal').addEventListener('click',()=>{
+    const expression=document.getElementById('display');
+    let result=math.evaluate(expression.value);
+    expression.value=result;
+});
