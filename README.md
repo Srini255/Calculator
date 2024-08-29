@@ -16,4 +16,5 @@ This project is a simple calculator web application that allows users to perform
 - **Programming Languages**: JavaScript
 - **Web Technologies**: HTML5, CSS3
 
-
+## Screenshots
+![Calculator Web App](https://raw.githubusercontent.com/Srini255/Calculator_WebApp/main/Calculator%20App.png)
